@@ -33,7 +33,7 @@
 							<ac:structured-macro ac:name="column">
 								<ac:parameter ac:name="width">20%</ac:parameter>
 								<ac:rich-text-body>
-								<p>jobname</p>
+								<a href="buildurl">jobname</a>
 								</ac:rich-text-body>
 							</ac:structured-macro>
 						</ac:rich-text-body>
