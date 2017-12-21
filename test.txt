@@ -1,5 +1,8 @@
 <ac:structured-macro ac:name="viewxls">
   <ac:parameter ac:name="col">A</ac:parameter>
+  <ac:parameter ac:name="col">B</ac:parameter>
+  <ac:parameter ac:name="col">C</ac:parameter>
+  <ac:parameter ac:name="col">D</ac:parameter>
   <ac:parameter ac:name="name">
     <ri:attachment ri:filename="Spreadsheet.xls"/>
   </ac:parameter>
