@@ -41,7 +41,7 @@
 					</ac:rich-text-body>
 				</ac:structured-macro>				
 				<ac:structured-macro ac:name="column">
-					<ac:parameter ac:name="width">10%</ac:parameter>
+					<ac:parameter ac:name="width">15%</ac:parameter>
 					<ac:rich-text-body>
 						<p><center><strong>BUILD NUMBER</strong></center></p>
 						<ac:structured-macro ac:name="section">
