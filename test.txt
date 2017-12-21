@@ -1,11 +1,81 @@
-<ac:structured-macro ac:name="viewxls">
-  <ac:parameter ac:name="col">A</ac:parameter>
-  <ac:parameter ac:name="col">B</ac:parameter>
-  <ac:parameter ac:name="col">C</ac:parameter>
-  <ac:parameter ac:name="col">D</ac:parameter>
-  <ac:parameter ac:name="name">
-    <ri:attachment ri:filename="Spreadsheet.xls"/>
-  </ac:parameter>
-  <ac:parameter ac:name="sheet">Sheet1</ac:parameter>
-  <ac:parameter ac:name="row">1</ac:parameter>
+<ac:structured-macro ac:name="info">
+  <ac:parameter ac:name="icon">false</ac:parameter>
+  <ac:parameter ac:name="title">RCIOnline Build Status</ac:parameter>
+  <ac:rich-text-body>
+    <p>
+      <ac:structured-macro ac:name="section">
+		<ac:parameter ac:name="border">true</ac:parameter>
+			<ac:rich-text-body>
+				<ac:structured-macro ac:name="column">
+					<ac:parameter ac:name="width">100px</ac:parameter>
+					<ac:rich-text-body>
+						<p><center><strong>APP Name</strong></center></p>
+						<ac:structured-macro ac:name="section">
+						<ac:parameter ac:name="border">true</ac:parameter>
+						<ac:rich-text-body>
+							<ac:structured-macro ac:name="column">
+								<ac:parameter ac:name="width">100px</ac:parameter>
+								<ac:rich-text-body>
+								<p>RCIO APP</p>
+								</ac:rich-text-body>
+							</ac:structured-macro>
+						</ac:rich-text-body>
+						</ac:structured-macro>				
+					</ac:rich-text-body>
+				</ac:structured-macro>
+				<ac:structured-macro ac:name="column">
+					<ac:parameter ac:name="width">100px</ac:parameter>
+					<ac:rich-text-body>
+						<p><center><strong>JOB NAME</strong></center></p>
+						<ac:structured-macro ac:name="section">
+						<ac:parameter ac:name="border">true</ac:parameter>
+						<ac:rich-text-body>
+							<ac:structured-macro ac:name="column">
+								<ac:parameter ac:name="width">100px</ac:parameter>
+								<ac:rich-text-body>
+								<p>RCIO JOB</p>
+								</ac:rich-text-body>
+							</ac:structured-macro>
+						</ac:rich-text-body>
+						</ac:structured-macro>				
+					</ac:rich-text-body>
+				</ac:structured-macro>				
+				<ac:structured-macro ac:name="column">
+					<ac:parameter ac:name="width">100px</ac:parameter>
+					<ac:rich-text-body>
+						<p><center><strong>BUILD NUMBER</strong></center></p>
+						<ac:structured-macro ac:name="section">
+						<ac:parameter ac:name="border">true</ac:parameter>
+						<ac:rich-text-body>
+							<ac:structured-macro ac:name="column">
+								<ac:parameter ac:name="width">100px</ac:parameter>
+								<ac:rich-text-body>
+								<p>40</p>
+								</ac:rich-text-body>
+							</ac:structured-macro>
+						</ac:rich-text-body>
+						</ac:structured-macro>				
+					</ac:rich-text-body>
+				</ac:structured-macro>				
+				<ac:structured-macro ac:name="column">
+					<ac:parameter ac:name="width">100px</ac:parameter>
+					<ac:rich-text-body>
+						<p><center><strong>UDEPLOY VERSIONS</strong></center></p>
+						<ac:structured-macro ac:name="section">
+						<ac:parameter ac:name="border">true</ac:parameter>
+						<ac:rich-text-body>
+							<ac:structured-macro ac:name="column">
+								<ac:parameter ac:name="width">100px</ac:parameter>
+								<ac:rich-text-body>
+								<p>udeploy versions from build</p>
+								</ac:rich-text-body>
+							</ac:structured-macro>
+						</ac:rich-text-body>
+						</ac:structured-macro>				
+					</ac:rich-text-body>
+				</ac:structured-macro>
+			</ac:rich-text-body>
+		</ac:structured-macro>
+    </p>
+  </ac:rich-text-body>
 </ac:structured-macro>
