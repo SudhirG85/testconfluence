@@ -7,7 +7,7 @@
 		<ac:parameter ac:name="border">true</ac:parameter>
 			<ac:rich-text-body>
 				<ac:structured-macro ac:name="column">
-					<ac:parameter ac:name="width">100px</ac:parameter>
+					<ac:parameter ac:name="width">10%</ac:parameter>
 					<ac:rich-text-body>
 						<p><center><strong>APP Name</strong></center></p>
 						<ac:structured-macro ac:name="section">
@@ -24,7 +24,7 @@
 					</ac:rich-text-body>
 				</ac:structured-macro>
 				<ac:structured-macro ac:name="column">
-					<ac:parameter ac:name="width">100px</ac:parameter>
+					<ac:parameter ac:name="width">20%</ac:parameter>
 					<ac:rich-text-body>
 						<p><center><strong>JOB NAME</strong></center></p>
 						<ac:structured-macro ac:name="section">
@@ -41,7 +41,7 @@
 					</ac:rich-text-body>
 				</ac:structured-macro>				
 				<ac:structured-macro ac:name="column">
-					<ac:parameter ac:name="width">100px</ac:parameter>
+					<ac:parameter ac:name="width">10%</ac:parameter>
 					<ac:rich-text-body>
 						<p><center><strong>BUILD NUMBER</strong></center></p>
 						<ac:structured-macro ac:name="section">
@@ -58,7 +58,7 @@
 					</ac:rich-text-body>
 				</ac:structured-macro>				
 				<ac:structured-macro ac:name="column">
-					<ac:parameter ac:name="width">100px</ac:parameter>
+					<ac:parameter ac:name="width">60%</ac:parameter>
 					<ac:rich-text-body>
 						<p><center><strong>UDEPLOY VERSIONS</strong></center></p>
 						<ac:structured-macro ac:name="section">
