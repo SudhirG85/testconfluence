@@ -26,7 +26,7 @@
 				<ac:structured-macro ac:name="column">
 					<ac:parameter ac:name="width">100px</ac:parameter>
 					<ac:rich-text-body>
-						<p><strong>JOB NAME</strong></p>
+						<p><center><strong>JOB NAME</strong></center></p>
 						<ac:structured-macro ac:name="section">
 						<ac:parameter ac:name="border">true</ac:parameter>
 						<ac:rich-text-body>
@@ -43,7 +43,7 @@
 				<ac:structured-macro ac:name="column">
 					<ac:parameter ac:name="width">100px</ac:parameter>
 					<ac:rich-text-body>
-						<p><strong>BUILD NUMBER</strong></p>
+						<p><center><strong>BUILD NUMBER</strong></center></p>
 						<ac:structured-macro ac:name="section">
 						<ac:parameter ac:name="border">true</ac:parameter>
 						<ac:rich-text-body>
@@ -60,7 +60,7 @@
 				<ac:structured-macro ac:name="column">
 					<ac:parameter ac:name="width">100px</ac:parameter>
 					<ac:rich-text-body>
-						<p><strong>UDEPLOY VERSIONS</strong></p>
+						<p><center><strong>UDEPLOY VERSIONS</strong></center></p>
 						<ac:structured-macro ac:name="section">
 						<ac:parameter ac:name="border">true</ac:parameter>
 						<ac:rich-text-body>
