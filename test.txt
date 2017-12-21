@@ -1,6 +1,6 @@
 <ac:structured-macro ac:name="info">
   <ac:parameter ac:name="icon">false</ac:parameter>
-  <ac:parameter ac:name="title">This is my title</ac:parameter>
+  <ac:parameter ac:name="title">RCIOnline Build Status</ac:parameter>
   <ac:rich-text-body>
     <p>
       <ac:structured-macro ac:name="section">
