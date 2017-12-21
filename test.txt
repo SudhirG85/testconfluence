@@ -13,6 +13,6 @@
         <p>This is the content of <strong>column 2</strong>.</p>
       </ac:rich-text-body>
     </ac:structured-macro>
-    <ac:structured-macro>
+   <ac:structured-macro>
   </ac:rich-text-body>
 </ac:structured-macro>
