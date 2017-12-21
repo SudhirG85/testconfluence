@@ -9,7 +9,7 @@
 				<ac:structured-macro ac:name="column">
 					<ac:parameter ac:name="width">100px</ac:parameter>
 					<ac:rich-text-body>
-						<p>APP Name.</p>
+						<p><strong>APP Name</strong></p>
 						<ac:structured-macro ac:name="section">
 						<ac:parameter ac:name="border">true</ac:parameter>
 						<ac:rich-text-body>
@@ -26,19 +26,52 @@
 				<ac:structured-macro ac:name="column">
 					<ac:parameter ac:name="width">100px</ac:parameter>
 					<ac:rich-text-body>
-						<p>JOB Name.</p>
+						<p><strong>JOB NAME</strong></p>
+						<ac:structured-macro ac:name="section">
+						<ac:parameter ac:name="border">true</ac:parameter>
+						<ac:rich-text-body>
+							<ac:structured-macro ac:name="column">
+								<ac:parameter ac:name="width">100px</ac:parameter>
+								<ac:rich-text-body>
+								<p>RCIO JOB</p>
+								</ac:rich-text-body>
+							</ac:structured-macro>
+						</ac:rich-text-body>
+						</ac:structured-macro>				
 					</ac:rich-text-body>
 				</ac:structured-macro>				
 				<ac:structured-macro ac:name="column">
 					<ac:parameter ac:name="width">100px</ac:parameter>
 					<ac:rich-text-body>
-						<p>Build Number.</p>
+						<p><strong>BUILD NUMBER</strong></p>
+						<ac:structured-macro ac:name="section">
+						<ac:parameter ac:name="border">true</ac:parameter>
+						<ac:rich-text-body>
+							<ac:structured-macro ac:name="column">
+								<ac:parameter ac:name="width">100px</ac:parameter>
+								<ac:rich-text-body>
+								<p>40</p>
+								</ac:rich-text-body>
+							</ac:structured-macro>
+						</ac:rich-text-body>
+						</ac:structured-macro>				
 					</ac:rich-text-body>
 				</ac:structured-macro>				
 				<ac:structured-macro ac:name="column">
 					<ac:parameter ac:name="width">100px</ac:parameter>
 					<ac:rich-text-body>
-						<p>UDeploy Versions.</p>
+						<p><strong>UDEPLOY VERSIONS</strong></p>
+						<ac:structured-macro ac:name="section">
+						<ac:parameter ac:name="border">true</ac:parameter>
+						<ac:rich-text-body>
+							<ac:structured-macro ac:name="column">
+								<ac:parameter ac:name="width">100px</ac:parameter>
+								<ac:rich-text-body>
+								<p>udeploy versions from build</p>
+								</ac:rich-text-body>
+							</ac:structured-macro>
+						</ac:rich-text-body>
+						</ac:structured-macro>				
 					</ac:rich-text-body>
 				</ac:structured-macro>
 			</ac:rich-text-body>
