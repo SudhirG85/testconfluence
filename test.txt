@@ -1,6 +1,16 @@
-| Day     | Meal    | Price |
-| --------|---------|-------|
-| Monday  | pasta   | $6    |
-| Tuesday | chicken | $8    |
-
-
+<ac:structured-macro ac:name="section">
+  <ac:parameter ac:name="border">true</ac:parameter>
+  <ac:rich-text-body>
+    <ac:structured-macro ac:name="column">
+      <ac:parameter ac:name="width">100px</ac:parameter>
+      <ac:rich-text-body>
+        <p>This is the content of <strong>column 1</strong>.</p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <ac:structured-macro ac:name="column">
+      <ac:rich-text-body>
+        <p>This is the content of <strong>column 2</strong>.</p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+  </ac:rich-text-body>
+</ac:structured-macro>
