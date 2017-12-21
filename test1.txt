@@ -1,0 +1,16 @@
+<table>
+<tbody>
+<tr>
+<th>APP NAME</th>   
+<th>JOB NAME</th>
+<th>BUILD NUMBER</th>
+<th>UDEPLOY VERSIONS</th>
+</tr> 
+<tr>
+<td>appname</td>
+<td><a href="buildurl/console">jobname</a></td>
+<td>buildnum</td>
+<td>ucdversions</td>
+</tr>
+</tbody>
+</table>
