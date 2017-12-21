@@ -9,7 +9,7 @@
 				<ac:structured-macro ac:name="column">
 					<ac:parameter ac:name="width">100px</ac:parameter>
 					<ac:rich-text-body>
-						<p><strong>APP Name</strong></p>
+						<p><center><strong>APP Name</strong></center></p>
 						<ac:structured-macro ac:name="section">
 						<ac:parameter ac:name="border">true</ac:parameter>
 						<ac:rich-text-body>
