@@ -66,7 +66,7 @@
 						<ac:rich-text-body>
 							<ac:structured-macro ac:name="column">
 								<ac:parameter ac:name="width">60%</ac:parameter>
-								<ac:parameter ac:name="height">20%</ac:parameter>
+								<ac:parameter ac:name="height">10%</ac:parameter>
 								<ac:rich-text-body>
 								<p>ucdversions</p>
 								</ac:rich-text-body>
