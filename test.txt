@@ -16,7 +16,7 @@
 							<ac:structured-macro ac:name="column">
 								<ac:parameter ac:name="width">100px</ac:parameter>
 								<ac:rich-text-body>
-								<p>RCIO APP</p>
+								<p>appname</p>
 								</ac:rich-text-body>
 							</ac:structured-macro>
 						</ac:rich-text-body>
@@ -33,7 +33,7 @@
 							<ac:structured-macro ac:name="column">
 								<ac:parameter ac:name="width">100px</ac:parameter>
 								<ac:rich-text-body>
-								<p>RCIO JOB</p>
+								<p>jobname</p>
 								</ac:rich-text-body>
 							</ac:structured-macro>
 						</ac:rich-text-body>
@@ -50,7 +50,7 @@
 							<ac:structured-macro ac:name="column">
 								<ac:parameter ac:name="width">100px</ac:parameter>
 								<ac:rich-text-body>
-								<p>40</p>
+								<p>buildnum</p>
 								</ac:rich-text-body>
 							</ac:structured-macro>
 						</ac:rich-text-body>
@@ -67,7 +67,7 @@
 							<ac:structured-macro ac:name="column">
 								<ac:parameter ac:name="width">100px</ac:parameter>
 								<ac:rich-text-body>
-								<p>udeploy versions from build</p>
+								<p>ucdversions</p>
 								</ac:rich-text-body>
 							</ac:structured-macro>
 						</ac:rich-text-body>
