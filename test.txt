@@ -1,8 +1,18 @@
-<ac:structured-macro ac:name="content-report-table">
-  <ac:parameter ac:name="spaces">
-    <ri:space ri:space-key="DOC"/>
-  </ac:parameter>
-  <ac:parameter ac:name="labels">LDAP</ac:parameter>
-  <ac:parameter ac:name="analytics-key">meeting-notes</ac:parameter>
-  <ac:parameter ac:name="maxResults">5</ac:parameter>
+<ac:structured-macro ac:name="section">
+  <ac:parameter ac:name="border">true</ac:parameter>
+  <ac:rich-text-body>
+   <ac:structured-macro ac:name="row">
+    <ac:structured-macro ac:name="column">
+      <ac:parameter ac:name="width">100px</ac:parameter>
+      <ac:rich-text-body>
+        <p>This is the content of <strong>column 1</strong>.</p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <ac:structured-macro ac:name="column">
+      <ac:rich-text-body>
+        <p>This is the content of <strong>column 2</strong>.</p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+   </ac:structured-macro>
+  </ac:rich-text-body>
 </ac:structured-macro>
