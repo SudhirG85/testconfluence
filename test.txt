@@ -1,18 +1,24 @@
-<ac:structured-macro ac:name="section">
-  <ac:parameter ac:name="border">true</ac:parameter>
+<ac:structured-macro ac:name="info">
+  <ac:parameter ac:name="icon">false</ac:parameter>
+  <ac:parameter ac:name="title">This is my title</ac:parameter>
   <ac:rich-text-body>
-   <ac:structured-macro ac:name="row">
-    <ac:structured-macro ac:name="column">
-      <ac:parameter ac:name="width">100px</ac:parameter>
-      <ac:rich-text-body>
-        <p>This is the content of <strong>column 1</strong>.</p>
-      </ac:rich-text-body>
-    </ac:structured-macro>
-    <ac:structured-macro ac:name="column">
-      <ac:rich-text-body>
-        <p>This is the content of <strong>column 2</strong>.</p>
-      </ac:rich-text-body>
-    </ac:structured-macro>
-   </ac:structured-macro>
+    <p>
+      <ac:structured-macro ac:name="section">
+		<ac:parameter ac:name="border">true</ac:parameter>
+			<ac:rich-text-body>
+				<ac:structured-macro ac:name="column">
+					<ac:parameter ac:name="width">100px</ac:parameter>
+					<ac:rich-text-body>
+						<p>This is the content of <strong>column 1</strong>.</p>
+					</ac:rich-text-body>
+				</ac:structured-macro>
+				<ac:structured-macro ac:name="column">
+					<ac:rich-text-body>
+						<p>This is the content of <strong>column 2</strong>.</p>
+					</ac:rich-text-body>
+				</ac:structured-macro>
+			</ac:rich-text-body>
+		</ac:structured-macro>
+    </p>
   </ac:rich-text-body>
 </ac:structured-macro>
