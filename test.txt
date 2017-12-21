@@ -9,25 +9,25 @@
 				<ac:structured-macro ac:name="column">
 					<ac:parameter ac:name="width">100px</ac:parameter>
 					<ac:rich-text-body>
-						<p>APP Name</strong>.</p>
+						<p>APP Name.</p>
 					</ac:rich-text-body>
 				</ac:structured-macro>
 				<ac:structured-macro ac:name="column">
 					<ac:parameter ac:name="width">100px</ac:parameter>
 					<ac:rich-text-body>
-						<p>JOB Name</strong>.</p>
+						<p>JOB Name.</p>
 					</ac:rich-text-body>
 				</ac:structured-macro>				
 				<ac:structured-macro ac:name="column">
 					<ac:parameter ac:name="width">100px</ac:parameter>
 					<ac:rich-text-body>
-						<p>Build Number</strong>.</p>
+						<p>Build Number.</p>
 					</ac:rich-text-body>
 				</ac:structured-macro>				
 				<ac:structured-macro ac:name="column">
 					<ac:parameter ac:name="width">100px</ac:parameter>
 					<ac:rich-text-body>
-						<p>UDeploy Versions</strong>.</p>
+						<p>UDeploy Versions.</p>
 					</ac:rich-text-body>
 				</ac:structured-macro>
 			</ac:rich-text-body>
