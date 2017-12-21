@@ -1,22 +1,22 @@
 <ac:structured-macro ac:name="info">
 <ac:parameter ac:name="icon">false</ac:parameter>
-<ac:parameter ac:name="title">RCIOnline Build Status</ac:parameter>
+<ac:parameter ac:name="title">RCIONLINE BUILD STATUS</ac:parameter>
   <ac:rich-text-body>
-      <table>
-        <tbody>
-          <tr>
-            <th>APP NAME</th>   
-            <th>JOB NAME</th>
-            <th>BUILD NUMBER</th>
-            <th>UDEPLOY VERSIONS</th>
-          </tr> 
-          <tr>
-            <td>appname</td>
-            <td><a href="buildurl/console">jobname</a></td>
-            <td>buildnum</td>
-            <td>ucdversions</td>
-          </tr>
-        </tbody>
-      </table>
+    <table>
+      <tbody>
+        <tr>
+          <th>APP NAME</th>   
+          <th>JOB NAME</th>
+          <th>BUILD NUMBER</th>
+          <th>UDEPLOY VERSIONS</th>
+        </tr> 
+        <tr>
+          <td>appname</td>
+          <td><a href="buildurl/console">jobname</a></td>
+          <td>buildnum</td>
+          <td>ucdversions</td>
+        </tr>
+      </tbody>
+    </table>
   </ac:rich-text-body>
 </ac:structured-macro>
