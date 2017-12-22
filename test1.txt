@@ -1,6 +1,6 @@
 <ac:structured-macro ac:name="info">
 <ac:parameter ac:name="icon">false</ac:parameter>
-<ac:parameter ac:name="title">RCIONLINE BUILD STATUS</ac:parameter>
+<ac:parameter ac:name="title">RCIONLINE DEPLOYMENT STATUS</ac:parameter>
   <ac:rich-text-body>
     <table>
       <tbody>
@@ -8,7 +8,7 @@
           <th>APP NAME</th>   
           <th>JOB NAME</th>
           <th>BUILD NUMBER</th>
-          <th>UDEPLOY VERSIONS</th>
+          <th>DEPLOYED VERSIONS</th>
         </tr> 
         <tr>
           <td>appname</td>
